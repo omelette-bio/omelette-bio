@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm omelette-bio</h1>
+<h1 align="center">Hi 👋, I'm omelette-bio :fire:</h1>
 <h3 align="center">A python/rust enjoyer</h3>
 
 - 🧑‍🎓 Student at University Côte d'Azur
