@@ -9,6 +9,8 @@
   
 - ⚡ Fun fact **I love cow programming language**
 
+- no social media i prefer programming 🤓
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -34,4 +36,3 @@
 </p>
 
 
-- no social media i prefer programming
