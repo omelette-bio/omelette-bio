@@ -2,7 +2,12 @@
 <h3 align="center">A python/rust enjoyer</h3>
 
 - 🧑‍🎓 Student at University Côte d'Azur
+  
 - ⚡ Fun fact **I love cow programming language**
+
+- 🌱 I’m currently learning **Rust and java**
+
+- 📫 How to reach me **flandinfrancois@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
