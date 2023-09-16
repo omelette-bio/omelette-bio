@@ -37,3 +37,4 @@
 </p>
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omelette-bio&show_icons=true&text_color=000000&locale=en" alt="omelette-bio" /></p>
