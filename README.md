@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm omelette-bio :fire:</h1>
 <h3 align="center">A python/rust enjoyer</h3>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdmcDU5dGNnZW01d2E3ZjUwbXhmOWR1eHk3ODlwN2U4c3ZyanhmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif">
 
 - 🧑‍🎓 Student at University Côte d'Azur
 
