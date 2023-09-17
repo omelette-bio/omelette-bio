@@ -18,3 +18,8 @@
 <h3 align="left">Github</h3>
 
 <li><a href="https://docs.github.com/en/issues/planning-and-tracking-with-projects">Learn how to use Github Projects</a></li>
+
+<h3 align="left">Mojo</h3>
+
+<li><a href="https://docs.modular.com/mojo/">Mojo Documentation</a></li>
+<li><a href="https://docs.modular.com/mojo/programming-manual.html">Mojo Programming Manual</a></li>
