@@ -36,4 +36,4 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
 </p>
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://spotify.link/qS5kllP2aDb)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://spotify.link/We4SScW2aDb)
