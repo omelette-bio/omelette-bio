@@ -4,7 +4,7 @@
 
 - 🧑‍🎓 Student at University Côte d'Azur
 
-- 🌱 I’m currently learning **Rust and Mojo**
+- 🌱 I’m currently learning **Rust and Java**
 
 - 📫 How to reach me **flandinfrancois@proton.me**
   
