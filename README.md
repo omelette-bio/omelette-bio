@@ -35,17 +35,17 @@
   </tr>
 
   <tr>
-    <th colspan="1">Learning by myself</th>
     <th colspan="1">Learning at university</th>
+    <th colspan="1">Learning by myself</th>
   </tr>
 
   <tr>
-    <td colspan="1">
-      <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-    </td>
     <td>
       <img src="https://img.shields.io/badge/openjdk-%23437291?style=for-the-badge&logo=openjdk&logoColor=white">
       <img src="https://img.shields.io/badge/ocaml-%23EC6813?style=for-the-badge&logo=ocaml&logoColor=white">
+    </td>
+    <td colspan="1">
+      <img src="https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white">
     </td>
   </tr>
 
