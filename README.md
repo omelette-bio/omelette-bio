@@ -1,4 +1,4 @@
-![Cover Image](./assets/zob.jpg)
+![Cover Image](./zob.jpg)
 
 <h1 align="center">Hi 👋, I'm omelette-bio :fire:<br/>CS student of Université Cote d'Azur</h1>
 
