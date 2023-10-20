@@ -1,3 +1,5 @@
+![Cover Image](./assets/zob.jpg)
+
 <h1 align="center">Hi 👋, I'm omelette-bio :fire:</h1>
 <h1 align="center">CS student of Université Cote d'Azur</h1>
 
