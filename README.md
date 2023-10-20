@@ -39,5 +39,6 @@
 <p align="left">
 <img src="https://img.shields.io/badge/ubuntu-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/windows-%230078D4?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 </p>
