@@ -35,8 +35,12 @@
   </tr>
 
   <tr>
-    <th colspan="1">Learning at university</th>
-    <th colspan="1">Learning by myself</th>
+    <th colspan="2">Learning</th>
+  </tr>
+  
+  <tr>
+    <th colspan="1">At university</th>
+    <th colspan="1">By myself</th>
   </tr>
 
   <tr>
