@@ -4,10 +4,6 @@
 
 - 🧑‍🎓 Student at University Côte d'Azur
 
-- 🌱 I’m currently learning **Rust and Mojo** by myself
-
-- 🌱 I’m currently learning **Java and Ocaml** at University
-
 - 📫 How to reach me **flandinfrancois@proton.me**
   
 - ⚡ Fun fact **I love cow programming language**
