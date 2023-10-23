@@ -45,7 +45,7 @@
 
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/openjdk-%23437291?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/java-%23437291?style=for-the-badge&logo=openjdk&logoColor=white">
       <img src="https://img.shields.io/badge/ocaml-%23EC6813?style=for-the-badge&logo=ocaml&logoColor=white">
     </td>
     <td colspan="1">
