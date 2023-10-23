@@ -76,4 +76,24 @@
   
 </table>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omelette-bio&layout=compact&theme=omni)](https://github.com/omelette-bio)
+<table>
+<tr>
+  <th>🎓 school projects</th>  
+</tr> 
+
+<tr>
+  <td>
+    <a href="https://github.com/omelette-bio/bataille-navale"><img src="https://img.shields.io/badge/bataille%20navale-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
+    <!-- [<img src="https://img.shields.io/badge/mrsync-3776AB?style=for-the-badge&logo=python&logoColor=white">](https://github.com/omelette-bio/mrsync)
+    [<img src="https://img.shields.io/badge/concepts%20ia-3776AB?style=for-the-badge&logo=python&logoColor=white">](https://github.com/omelette-bio/projet-concept-ia)
+    [<img src="https://img.shields.io/badge/simple%20rpg-%23437291?style=for-the-badge&logo=openjdk&logoColor=white">](https://github.com/omelette-bio/les-nuits-de-padhiver) -->
+  </td>
+</tr>
+</table>
+
+<!-- [<img src="https://img.shields.io/badge/bataille%20navale-A8B9CC?style=for-the-badge&logo=c&logoColor=white">](https://github.com/omelette-bio/bataille-navale)
+[<img src="https://img.shields.io/badge/mrsync-3776AB?style=for-the-badge&logo=python&logoColor=white">](https://github.com/omelette-bio/mrsync)
+[<img src="https://img.shields.io/badge/concepts%20ia-3776AB?style=for-the-badge&logo=python&logoColor=white">](https://github.com/omelette-bio/projet-concept-ia)
+[<img src="https://img.shields.io/badge/simple%20rpg-%23437291?style=for-the-badge&logo=openjdk&logoColor=white">](https://github.com/omelette-bio/les-nuits-de-padhiver) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omelette-bio&layout=compact&theme=omni)](https://github.com/omelette-bio) -->
