@@ -1,6 +1,6 @@
 ![Cover Image](./zob.jpg)
 
-<h1 align="center">Hi 👋, I'm omelette-bio :fire:<br/>CS student of Université Cote d'Azur</h1>
+<h1 align="center">omelette-bio<br/>CS student of Université Cote d'Azur</h1>
 
 <table align="center">
   <!-- <tr>
@@ -73,20 +73,16 @@
     </td>
   </tr>
   
-  
-</table>
-
-<table>
 <tr>
-  <th>🎓 school projects</th>  
+  <th colspan="2">🎓 school projects</th>  
 </tr> 
 
 <tr>
-  <td>
+  <td colspan="2">
     <a href="https://github.com/omelette-bio/bataille-navale"><img src="https://img.shields.io/badge/bataille%20navale-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></a>
-    <!-- [<img src="https://img.shields.io/badge/mrsync-3776AB?style=for-the-badge&logo=python&logoColor=white">](https://github.com/omelette-bio/mrsync)
-    [<img src="https://img.shields.io/badge/concepts%20ia-3776AB?style=for-the-badge&logo=python&logoColor=white">](https://github.com/omelette-bio/projet-concept-ia)
-    [<img src="https://img.shields.io/badge/simple%20rpg-%23437291?style=for-the-badge&logo=openjdk&logoColor=white">](https://github.com/omelette-bio/les-nuits-de-padhiver) -->
+    <a href="https://github.com/omelette-bio/mrsync"><img src="https://img.shields.io/badge/mrsync-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="https://github.com/omelette-bio/projet-concept-ia"><img src="https://img.shields.io/badge/concepts%20ia-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="https://github.com/omelette-bio/les-nuits-de-padhiver"><img src="https://img.shields.io/badge/simple%20rpg-%23437291?style=for-the-badge&logo=openjdk&logoColor=white"></a>
   </td>
 </tr>
 </table>
