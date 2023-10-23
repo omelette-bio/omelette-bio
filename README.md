@@ -74,7 +74,7 @@
   </tr>
   
 <tr>
-  <th colspan="2">🎓 school projects</th>  
+  <th colspan="2">🎓 University projects</th>  
 </tr> 
 
 <tr>
