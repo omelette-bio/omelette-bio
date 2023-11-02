@@ -3,7 +3,8 @@
 <h1 align="center">omelette-bio<br/>CS student of Université Cote d'Azur</h1>
 
 <p align="center">
-  <a href="https://www.freecodecamp.org/omelette-bio" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
+  <a href="https://francois-flandin.fr"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://leetcode.com/omelette-bio/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
   <a href="https://exercism.org/profiles/omelette-bio" target="_blank"><img src="https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white"></a></p>
 </p>
 
