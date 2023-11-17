@@ -1,6 +1,6 @@
 
 ```
-~ > fetch --info
+~ > fetch -i
 
 omelette_bio
 STATUS:    cs student at uca
@@ -9,12 +9,10 @@ WEBSITE:   https://francois-flandin.fr
 DISCORD:   omelettebio
 LOVES:     you <3
 
-~ > fetch --tools
+~ > fetch -p
 
 PROGRAMMING:  Python, Rust, C, Java, Ocaml
 FRONTEND:     HTML, CSS, JAVASCRIPT
-IDEs:         VSCode, NeoVim
-OSs:          Ubuntu, Windows
 
 ~ > █
 ```
