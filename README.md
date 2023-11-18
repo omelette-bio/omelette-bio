@@ -1,5 +1,5 @@
 
-```
+```bash
 ~ > fetch -i
 
 omelette_bio
@@ -7,7 +7,7 @@ STATUS:    cs student at uca
 EMAIL:     flandinfrancois@proton.me
 WEBSITE:   https://francois-flandin.fr
 DISCORD:   omelettebio
-LOVES:     you <3
+LOVES:     you ♥
 
 ~ > fetch -p
 
