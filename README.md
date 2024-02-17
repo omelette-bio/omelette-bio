@@ -1,4 +1,3 @@
-
 ```bash
 ~ > fetch -i
 
@@ -11,8 +10,8 @@ LOVES:     you ♥
 
 ~ > fetch -p
 
-PROGRAMMING:  Python, Rust, C, Java, Ocaml
-FRONTEND:     HTML, CSS, JAVASCRIPT
+PROGRAMMING:  ["Python", "Rust", "C", "Java", "Ocaml"]
+FRONTEND:     ["HTML", "CSS", "JAVASCRIPT"]
 
 ~ > █
 ```
