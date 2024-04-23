@@ -10,8 +10,9 @@ LOVES:     you ♥
 
 ~ > fetch -p
 
+FAV:          ["Rust"]
 PROGRAMMING:  ["Python", "Rust", "C", "Java", "Ocaml"]
-FRONTEND:     ["HTML", "CSS", "JAVASCRIPT"]
+FRONTEND:     ["HTML", "CSS", "JAVASCRIPT", "PHP"]
 
 ~ > █
 ```
