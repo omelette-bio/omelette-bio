@@ -11,7 +11,7 @@ LOVES:     you ♥
 ~ > fetch -p
 
 FAV:          ["Rust"]
-PROGRAMMING:  ["Python", "Rust", "C", "Java", "Ocaml"]
+PROGRAMMING:  ["Rust", "C", "Python", "Java", "Ocaml"]
 FRONTEND:     ["HTML", "CSS", "JAVASCRIPT", "PHP"]
 
 ~ > █
