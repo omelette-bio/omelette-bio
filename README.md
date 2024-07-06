@@ -1,1 +1,1 @@
-![](https://imgur.com/a/D48aQAo)
+![](./clst_chap7.jpg)
