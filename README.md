@@ -1,1 +1,1 @@
-![video-games-video-game](https://github.com/user-attachments/assets/51433d29-009b-4427-b7c0-078426cacdcc)
+![2026-01-15-francois-flandin](https://github.com/user-attachments/assets/7f72a114-eb7f-4ece-9c29-19395ab864f5)
