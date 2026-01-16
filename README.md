@@ -1,4 +1,18 @@
-![2026-01-15-francois-flandin](https://github.com/user-attachments/assets/7f72a114-eb7f-4ece-9c29-19395ab864f5)
+# Master student in computer science - IoT-CPS
+
+
+<center>
+
+| [visit my youtube channel](https://www.youtube.com/@omelettebio) | enjoy this cool gif |
+|---|---|
+|<img width="200" height="200" alt="computer" src="https://github.com/user-attachments/assets/10ba957d-10c2-45d1-b006-037080fb376c" />|![kinitopet-kinito](https://github.com/user-attachments/assets/c3b1ffe9-c25a-474b-9c87-e0657c2b8e27)|
+
+</center>
+<div style="text-align: center;">
+  
+![3356436483_preview_steam 1](https://github.com/user-attachments/assets/e7febd1c-ccfe-4350-980c-c2f3df44c9a8)
+
+</div>
 
 still figuring out what to do in life
 
