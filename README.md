@@ -1,4 +1,6 @@
-# Master student in computer science - IoT-CPS
+<div align="center">
+<h1>Master's student in computer science - IoT-CPS</h1>
+</div>
 
 <table width="100%" align="center">
 <tr>
@@ -33,6 +35,9 @@
 </tr>
 </table>
 
+<div align="center">
+<img src="banner.gif" alt="banner" height="100">
+</div>
 
 still figuring out what to do in life
 
