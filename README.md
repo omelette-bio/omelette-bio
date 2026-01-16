@@ -1,18 +1,38 @@
 # Master student in computer science - IoT-CPS
 
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://www.youtube.com/@omelettebio">
+<strong>Visit my youtube channel </strong>
+<br />
+<br />
+<br />
 
-<center>
+<p>
 
-| [visit my youtube channel](https://www.youtube.com/@omelettebio) | enjoy this cool gif |
-|---|---|
-|<img width="200" height="200" alt="computer" src="https://github.com/user-attachments/assets/10ba957d-10c2-45d1-b006-037080fb376c" />|![kinitopet-kinito](https://github.com/user-attachments/assets/c3b1ffe9-c25a-474b-9c87-e0657c2b8e27)|
+<img alt="computer" height="200" src="computer.png">
+</a>
+</p>
 
-</center>
-<div style="text-align: center;">
-  
-![3356436483_preview_steam 1](https://github.com/user-attachments/assets/e7febd1c-ccfe-4350-980c-c2f3df44c9a8)
+</td>
 
-</div>
+
+<td align="center">
+<strong>Enjoy this cool gif</strong>
+<br />
+<br />
+
+
+<p>
+<img height="200" alt="gaming" src="gaming.gif"> 
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
 
 still figuring out what to do in life
 
@@ -30,3 +50,5 @@ databases
 
 ![Static Badge](https://img.shields.io/badge/postgresql-%234169E1?style=flat&logo=postgresql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/influxdb-%2322ADF6?style=flat&logo=influxdb&logoColor=white)
+
+
