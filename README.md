@@ -41,19 +41,22 @@
 
 still figuring out what to do in life
 
-languages i use
+<div align=center>
+<h3>My Projects</h3>
+</div>
 
-![Static Badge](https://img.shields.io/badge/c-%23A8B9CC?style=flat&logo=c&logoColor=white)
-![Static Badge](https://img.shields.io/badge/python-%233776AB?style=flat&logo=python&logoColor=white)
+<table width="100%" align="center">
+<tr>
+  <th colspan="3">
+IoT-Projects
+    
+  </th>
+</tr>
+<tr>
+  <td>Monitoring Appartement</td>
+  <td><img alt="Static Badge" src="https://img.shields.io/badge/python-%233776AB?style=flat-square&logo=python&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/MQTT-%23660066?style=flat-square&logo=mqtt&logoColor=white"><br/><img alt="Static Badge" src="https://img.shields.io/badge/kafka-%23231F20?style=flat-square&logo=apachekafka&logoColor=white"> <img alt="Static Badge" src="https://img.shields.io/badge/postgreSQL-%234169E1?style=flat-square&logo=postgresql&logoColor=white">
 
-iot tools i use
-
-![Static Badge](https://img.shields.io/badge/kafka-%23231F20?style=flat&logo=apachekafka&logoColor=white)
-![Static Badge](https://img.shields.io/badge/mqtt-%23660066?style=flat&logo=mqtt&logoColor=white)
-
-databases
-
-![Static Badge](https://img.shields.io/badge/postgresql-%234169E1?style=flat&logo=postgresql&logoColor=white)
-![Static Badge](https://img.shields.io/badge/influxdb-%2322ADF6?style=flat&logo=influxdb&logoColor=white)
-
-
+</td>
+  <td><a href="https://github.com/komi-assimpah/dev-cps">Link</a></td>
+</tr>
+</table>
