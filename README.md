@@ -3,7 +3,14 @@
 </div>
 
 <table width="100%" align="center">
-<tr>
+  <tr>
+<td align="center">
+
+<img height="200" alt="gaming" src="tamagochi.gif"> 
+
+</td>
+  
+
 <td align="center">
 <a href="https://www.youtube.com/@omelettebio">
 <strong>Visit my youtube channel </strong>
@@ -13,7 +20,7 @@
 
 <p>
 
-<img alt="computer" height="200" src="computer.png">
+<img alt="computer" height="220" src="computer.png">
 </a>
 </p>
 
@@ -21,15 +28,8 @@
 
 
 <td align="center">
-<strong>Enjoy this cool gif</strong>
-<br />
-<br />
 
-
-<p>
 <img height="200" alt="gaming" src="gaming.gif"> 
-</a>
-</p>
 
 </td>
 </tr>
@@ -39,8 +39,6 @@
 <img src="banner.gif" alt="banner" height="100">
 </div>
 
-still figuring out what to do in life
-
 <div align=center>
 <h3>My Projects</h3>
 </div>
@@ -48,7 +46,7 @@ still figuring out what to do in life
 <table width="100%" align="center">
 <tr>
   <th colspan="3">
-IoT-Projects
+IoT-CPS Projects
     
   </th>
 </tr>
